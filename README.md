@@ -9,3 +9,5 @@ in chat type /rot {world id}
 4.at server.cfg add  ```start routingbucket ```
 # request
 [ESX](https://github.com/esx-framework/es_extended/tree/v1-final)
+# demo
+[demo](https://youtu.be/6WdIs5h57bE)
