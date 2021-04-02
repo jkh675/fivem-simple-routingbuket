@@ -1,0 +1,5 @@
+RegisterCommand("rot",function(source,args)
+    local xPlayer = GetPlayerFromIndex(source)
+    SetPlayerRoutingBucket( source , tonumber(args[1]))
+    print(GetPlayerRoutingBucket(source))
+end)
